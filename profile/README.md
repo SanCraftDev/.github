@@ -2,8 +2,8 @@
 
 **Who is SanCraft?** <br>
 Jonas (**San**oj) - [GitHub](https://github.com/2020Sanoj) [Twitter](https://twitter.com/2020Sanoj) <br>
-David (David**Craft**) - [GitHub](https://github.com/DavidCraftDev) [Twitter](https://twitter.com/David__Craft)
-
+David (David**Craft**) - [GitHub](https://github.com/DavidCraftDev) [Twitter](https://twitter.com/David__Craft) <br>
+We are from Germany!
 <!--
 
 **Here are some ideas to get you started:**
